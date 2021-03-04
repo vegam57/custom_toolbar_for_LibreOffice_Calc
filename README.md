@@ -1,0 +1,2 @@
+# custom_toolbar_for_LibreOffice_Calc
+LibreOffice_Calc用のカスタムツールバー 常用機能のボタンのみでノートPCでも作業領域が広々｡作業に集中できる...気がする｡
